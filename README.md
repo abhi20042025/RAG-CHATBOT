@@ -89,4 +89,6 @@ streamlit run app.py
 
 ```
 
-Your local browser environment will spin up a fresh tab at `http://localhost:8501`. You can now dynamically converse with your underlying document base.
+Your local browser environment will spin up a fresh tab at `http://localhost:8501`. You can now dynamically converse with your underlying document base.  
+
+Made by Abhishek Singh (Application No: IN26010634)
